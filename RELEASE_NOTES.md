@@ -241,6 +241,8 @@ changes (where available).
 
   - `dt_style_t.#`
 
+  - `darktable.films.#`
+
 - Ensure translations are displayed in UTF-8 under Windows
 
 
