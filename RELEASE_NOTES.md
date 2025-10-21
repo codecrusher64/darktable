@@ -245,6 +245,10 @@ changes (where available).
 
   - `darktable.styles.#`
 
+  - `darktable.database.#`
+
+  - `darktable.collection.#`
+
 - Ensure translations are displayed in UTF-8 under Windows
 
 
